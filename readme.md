@@ -30,4 +30,4 @@ __А теперь ближе к делу...__
 6) использовала функции с передачей параметров, локальные переменные
 7) откомпилировала и скомпоновала программу
 
-![Для душевного спокойствия](https://sun9-33.userapi.com/impg/rBctBrQ5PZQB-C4G2HZ2I4X5_kSxg606zR-u9Q/mum66TY-USw.jpg?size=1125x1395&quality=95&sign=59dd517ab4df415d6a257ed58582c140&type=album "Для душевного спокойствия")
+![Для душевного спокойствия](https://sun9-47.userapi.com/impg/eQSI51IJOxNpCKXdLK1Fzv2D5sMi9h_FknUwUw/PV4f_MI9Dbs.jpg?size=675x1200&quality=95&sign=c6d073da5ccc4919bb11e3dc0d96bfe7&type=album "Для душевного спокойствия")
