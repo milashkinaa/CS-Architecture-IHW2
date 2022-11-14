@@ -2,9 +2,9 @@
 
 __Вариант 34. Условие задачи:__ Разработать программу, которая на основе анализа двух ASCII строк формирует на выходе строку, содержащую символы, присут ствующие в одной или другой (объединение символов). Каждый символ в соответствующей выходной строке должен встречаться только один раз. 
 
-[__Программы на Си собраны здесь__]([https://github.com/milashkinaa/CS-Architecture-IHW1/blob/main/program.c](https://github.com/milashkinaa/CS-Architecture-IHW2/tree/main/code)) 
+[__Программы на Си собраны здесь__](https://github.com/milashkinaa/CS-Architecture-IHW2/tree/main/code)
 
-[__Коды на ассемблере с комментариями собраны здесь__]([https://github.com/milashkinaa/CS-Architecture-IHW1/blob/main/program.s](https://github.com/milashkinaa/CS-Architecture-IHW2/tree/main/assembly))
+[__Коды на ассемблере с комментариями собраны здесь__](https://github.com/milashkinaa/CS-Architecture-IHW2/tree/main/assembly)
 
 [__Тесты собраны вот тут__](https://github.com/milashkinaa/CS-Architecture-IHW2/tree/main/tests)
 
